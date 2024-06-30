@@ -1,1 +1,1 @@
-Patan Mohiddin
+console.log(yasovardhan)
